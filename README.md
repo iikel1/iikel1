@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kel!
+- ⏳ I’m interested in coding Discord Bots.
+- 📜 Connect me here !
+- Discord : Kel#4444
