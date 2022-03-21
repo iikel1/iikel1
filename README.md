@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Kel 🌱!
-- ⏳ I’m interested in coding Discord Bots.
+# Hello !
+- 👋 I’m Kel 🌱!
+- ⏳ I’m interested in Python.
 - 📜 Connect me here !
-- Discord : Kel#8411
+- Discord : Kel#1000
